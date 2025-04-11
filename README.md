@@ -18,6 +18,7 @@ Flutter로 프론트엔드를 시작해 현재는 Python을 중심으로 **RAG**
 - 🥉 **2025 Bellevue College Coding Competition** (3위)
 - 🥇 **2025 COSSIM Project Group Microdegree Exhibition** (1위)  
   🥈 **2024 Daegu SW Talent Development Project** (2위)
+
   _GET OUT OF – 데이터 수집 및 YOLO 객체 인식 기반 걷기 앱 프로토타입 개발_
   _걷기 앱 프로젝트 발표_
 - 🏅 **2024 CO-Data Station Council President’s Award** (4위)  
