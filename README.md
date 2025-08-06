@@ -11,7 +11,6 @@ Flutter로 프론트엔드를 시작해 현재는 Python을 중심으로 **RAG**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - **Frameworks/Tools**: <!-- Frameworks & Tools -->
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -26,6 +25,8 @@ Flutter로 프론트엔드를 시작해 현재는 Python을 중심으로 **RAG**
 ---
 
 ## 🏆 Achievements & Awards
+- **UCSD Qualcomm Institute Artificial-Intelligence Entrepreneurship Program** (3위)
+  YOLO v11 모델 활용 얼굴, 번호판, QR 코드, 민감 텍스트 추출 및 블러링 시스템 개발
 -  **2025 The NextGen Startup Challenge** (2위)  
   _Team Clover / VR Escape Room: Space Needle_
 - 🥉 **2025 Bellevue College Coding Competition** (3위)
@@ -42,8 +43,11 @@ Flutter로 프론트엔드를 시작해 현재는 Python을 중심으로 **RAG**
 ---
 
 ## 💼 Experience
+- **UCSD Qualcomm Institute Artificial-Intelligence Entrepreneurship Program**
+  July 2025 | UCSD Qualcomm Institute, US_
+  
 - **Bellevue College & Keimyung University COSSIM Project Group**  
-  _Jan 2025 – Jan 2025 | Bellevue, US_
+  _Jan 2025 | Bellevue, US_
 - **Daegu Digital Innovation Promotion Agency**  
   _Sep 2024 – Nov 2024 | Daegu, KR_
 
