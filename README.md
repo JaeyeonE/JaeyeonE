@@ -1,7 +1,7 @@
 
-# ✨ Hi, I'm JaeyeonE 👋  
+# ✨ Hi, I'm JaeyeonE
 호기심이 많고, 아이디어가 넘치는 개발자, JaeyeonE입니다.  
-Flutter로 프론트엔드를 시작해 현재는 Python을 중심으로 **RAG**와 **LLM**을 공부했고, **Computer vision**에 관심을 가져 객체 인식, 실시간 감지에 관심이 있습니다.
+Flutter로 프론트엔드를 시작해 현재는 Python을 중심으로 **RAG**와 **LLM**을 공부했고, **Computer vision**에 관심을 가져 객체 인식, 실시간 감지를 공부하고 있습니다.
 
 ---
 
