@@ -58,6 +58,10 @@ Recently, I have been expanding my interests toward **robotics software and inte
 
 ## 💼 Experience
 
+* **Google Professional Machine Learning Engineer Certification**
+  *Dec 2025 | Google Cloud Platform*
+  Demonstrated proficiency in designing, building, and deploying machine learning models, including data preparation, model training, evaluation, and production deployment on Google Cloud.
+
 * **UCSD Qualcomm Institute – Artificial Intelligence Entrepreneurship Program**
   *July 2025 | San Diego, US*
 
@@ -70,19 +74,18 @@ Recently, I have been expanding my interests toward **robotics software and inte
 ---
 
 ## 🌱 Currently Learning
-
-* Advanced **RAG architectures** and evaluation strategies
-* **LLM orchestration** using LangChain & Semantic Kernel
-* Robotics software foundations (ROS2, simulation-driven development)
-* Vision-based perception for intelligent systems
+- Advanced **RAG architectures** and evaluation strategies
+- **LLM orchestration** using LangChain & Semantic Kernel
+- **Multimodal AI systems** (vision, language, sensor data integration)
+- Robotics software foundations (ROS2, simulation-driven development)
+- **Multimodal perception and AI-based robot control** for intelligent systems
 
 ---
 
 ## 📫 Let’s Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/jaeyeonelenaheo)
-
----
+* E-Mail : ght010522@gmail.com
 
 ## ☕ Fun Fact
 
