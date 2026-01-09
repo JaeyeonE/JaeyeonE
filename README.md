@@ -1,9 +1,6 @@
 # ✨ Hi, I'm JaeyeonE
 
-I am a developer with strong curiosity and a passion for turning ideas into working systems.
-I started my journey with **Flutter-based frontend development** and gradually shifted my focus to **Python-centered AI systems**, particularly **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, and **Computer Vision** for object detection and real-time perception.
-
-Recently, I have been expanding my interests toward **robotics software and intelligent control systems**, aiming to bridge AI models with real-world, physical environments.
+I am a developer with a background in computer science who focuses on Python based AI systems, including Retrieval Augmented Generation, Large Language Models, and computer vision. I am currently learning robotics software and intelligent control systems to better understand how AI can interact with real world environments!
 
 ---
 
