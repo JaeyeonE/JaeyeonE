@@ -1,12 +1,12 @@
-# ✨ Hi, I'm JaeyeonE
+# Hi, I'm JaeyeonE
 
 I am a developer with a background in computer science who focuses on Python based AI systems, including Retrieval Augmented Generation, Large Language Models, and computer vision. I am currently learning robotics software and intelligent control systems to better understand how AI can interact with real world environments!
 
 ---
 
-## 🚀 Tech Stack & Interests
+## < Tech Stack & Interests >
 
-### 🧑‍💻 Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat\&logo=java\&logoColor=white)
@@ -14,14 +14,14 @@ I am a developer with a background in computer science who focuses on Python bas
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
-### 🛠 Frameworks & Tools
+### Frameworks & Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-yellowgreen?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 
-### 🎯 Current Focus
+### Current Focus
 
 * Retrieval-Augmented Generation (RAG)
 * Large Language Models (LLM) fine-tuning & application
@@ -70,7 +70,7 @@ I am a developer with a background in computer science who focuses on Python bas
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Advanced **RAG architectures** and evaluation strategies
 - **LLM orchestration** using LangChain & Semantic Kernel
 - **Multimodal AI systems** (vision, language, sensor data integration)
@@ -79,15 +79,8 @@ I am a developer with a background in computer science who focuses on Python bas
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/jaeyeonelenaheo)
+* [LinkedIn](https://www.linkedin.com/in/jaeyeonelenaheo)
 * E-Mail : ght010522@gmail.com
 
-## ☕ Fun Fact
-
-I enjoy rapidly prototyping ideas that start with
-
-> *“This might be fun if it works.”*
-
-I believe experimentation and curiosity are the fastest paths to meaningful innovation.
