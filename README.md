@@ -30,7 +30,7 @@ I am a developer with a background in computer science who focuses on Python bas
 
 ---
 
-## 🏆 Achievements & Awards
+## Achievements & Awards
 
 * **UCSD Qualcomm Institute Artificial-Intelligence Entrepreneurship Program** — *3rd Place*
   Developed a privacy-preserving vision system using **YOLO v11** for face, license plate, QR code, and sensitive text detection with real-time blurring
@@ -53,7 +53,7 @@ I am a developer with a background in computer science who focuses on Python bas
 
 ---
 
-## 💼 Experience
+## Experience
 
 * **Google Professional Machine Learning Engineer Certification**
   *Dec 2025 | Google Cloud Platform*
